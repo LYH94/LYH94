@@ -2,7 +2,8 @@
 
 ### :mechanical_arm:	GitHub Stats
 ![LYH94's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYH94&theme=ayu-mirage&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYH94&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=lyh94&theme=ayu-mirage&show_icons=true&locale=en&layout=compact)
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lyh94&theme=ayu-mirage)
 
 ### :earth_asia:	Languages and Tools:
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
