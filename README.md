@@ -1,4 +1,4 @@
-# Hey! I,m Lee.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey! I'm Lee.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### :mechanical_arm:	GitHub Stats
 ![LYH94's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYH94&theme=ayu-mirage&show_icons=true)
